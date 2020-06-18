@@ -10,6 +10,7 @@ import Foundation
 
 public class LocalManager {
     
+    public init() {}
     
     public func getAHug1() -> String {
         return "Hug 1"
