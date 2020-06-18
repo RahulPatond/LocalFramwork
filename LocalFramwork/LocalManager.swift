@@ -15,4 +15,8 @@ public class LocalManager {
     public func getAHug1() -> String {
         return "Hug 1"
     }
+    
+    public func getAHug2() -> String {
+        return "Hug 1"
+    }
 }
